@@ -77,4 +77,4 @@ This project demonstrates practical implementation of Java programming concepts 
 
 ## Author
 
-Pavvit Singh
+Purvi Sonthalia
